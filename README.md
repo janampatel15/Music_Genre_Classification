@@ -15,4 +15,3 @@ There are multiple files in this zip folder. The file description of files are a
 5. CNN_keras.ipynb contains our convolutional model that was made using Keras to work with RGB images.
 6. ML.ipynb contains our Machine Learning model that uses GridSearch
 7. 30sec_report.html, and 3sec_report.html are html report generated using Pandas Profiling.
-8. new_main_class.py contains our important classes and functions used by our models.
